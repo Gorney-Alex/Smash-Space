@@ -1,18 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(PlayerMovement))]
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private PlayerMovement _playerMovement;
+
+    private void Awake()
     {
-        
+        _playerMovement = GetComponent<PlayerMovement>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
+        if (Input.GetKey(KeyCode.W))
+        {
+            _playerMovement.DoMove();
+        }
         
+        float h = Input.GetAxis("Horizontal");
+        if (Mathf.Abs(h) > 0.01f)
+        {
+            _playerMovement.DoRotate(h);
+        }
     }
 }
