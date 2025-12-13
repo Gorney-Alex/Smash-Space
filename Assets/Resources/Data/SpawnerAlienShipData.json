@@ -1,0 +1,7 @@
+{
+  "SecondsBetweenSpawner": 10,
+  "StartAmount": 2,
+  "MaxAmount": 5,
+  "MinSpawnRadius": 600,
+  "MaxSpawnRadius": 700
+}

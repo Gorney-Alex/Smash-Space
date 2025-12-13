@@ -1,0 +1,4 @@
+{
+	"name": "AmmoTypesModule",
+	"references":[ "GUID:97956d9d3f750d9458bbdf6ea2c3e499", "GUID:804e21e98a78dc647b7e429aa1bcb154", "GUID:1e2bec50e6b89f44489c54ad03a1c908", "GUID:f51ebe6a0ceec4240a699833d6309b23", "GUID:0d8beb7f090555447a6cf5ce9e54dbb4" ]
+}

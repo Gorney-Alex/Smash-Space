@@ -1,0 +1,4 @@
+{
+	"name": "MainMenuButtonsModule",
+	"references":[ "GUID:1777d4e898ca83a438a399546acb97ec", "GUID:5236cdb069a597642995eed99c54135a" ]
+}

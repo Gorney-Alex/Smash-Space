@@ -1,0 +1,19 @@
+{
+    "name": "InputSystemsModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:1e2bec50e6b89f44489c54ad03a1c908",
+        "GUID:f69185b389be97848955f5d882e39fb4",
+        "GUID:32f34f9c512ff4d48a6ad5920e721903"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,4 @@
+{
+	"name": "ObjectPool",
+	"references":[ "GUID:1e2bec50e6b89f44489c54ad03a1c908", "GUID:a7499dc6c76238047840199891d7fdd8", "GUID:eca27a2aafe35bb4ebfbe5446af91e4c" ]
+}

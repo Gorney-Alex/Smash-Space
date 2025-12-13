@@ -1,0 +1,9 @@
+{
+  "Mass": 8,
+  "Friction": 0.2,
+  "MoveForce": 80,
+  "RotateForce": 40,
+  "StartHealth": 3,
+  "Damage": 3,
+  "Points": 6
+}

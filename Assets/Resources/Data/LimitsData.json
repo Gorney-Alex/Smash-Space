@@ -1,0 +1,5 @@
+{
+  "MinSpeed": 5,
+  "MaxSpeed": 100,
+  "BounceForce": 0.9
+}

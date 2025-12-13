@@ -1,0 +1,12 @@
+{
+  "Mass": 10,
+  "Friction": 0.1,
+  "MoveForce": 45,
+  "RotateForce": 80,
+  "StartHealth": 10,
+  "Startpoints": 0,
+  "InvulnerabilitySeconds": 5,
+  "BlinkSpeed": 5,
+  "AlphaMin": 0.3,
+  "AlphaMax": 1
+}

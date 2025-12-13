@@ -1,0 +1,7 @@
+{
+  "MinBorderX": -700,
+  "MaxBorderX": 700,
+  "MaxBorderY": 700,
+  "MinBorderY": -700,
+  "SmallPushNumber": 0.1
+}

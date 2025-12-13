@@ -1,0 +1,4 @@
+{
+	"name": "UIViewModelsModule",
+	"references":[ "GUID:d9b374b0d931455cb6ede9abbd8750f6", "GUID:560b04d1a97f54a4e82edc0cbbb69285", "GUID:32f34f9c512ff4d48a6ad5920e721903" ]
+}

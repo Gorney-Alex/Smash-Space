@@ -1,0 +1,3 @@
+﻿Build path: D:/MyGames/SmashSpace/New Unity Project.exe
+Build number: 10
+PluginYG version: 2.007

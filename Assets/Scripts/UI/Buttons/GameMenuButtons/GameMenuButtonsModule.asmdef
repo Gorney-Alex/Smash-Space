@@ -1,0 +1,4 @@
+{
+	"name": "GameMenuButtonsModule",
+	"references":[ "GUID:1777d4e898ca83a438a399546acb97ec", "GUID:bc99847551e9c724dabe46b625149781" ]
+}
